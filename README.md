@@ -32,102 +32,102 @@ Alternatively, one can individually download an archive for each domain from the
     <tbody>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Album">Album</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Album.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Album.tar.bz2" target="_blank">Download</a></td>
             <td>2.3GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Animal">Animal</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Animal.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Animal.tar.bz2" target="_blank">Download</a></td>
             <td>589MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Artist">Artist</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Artist.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Artist.tar.bz2" target="_blank">Download</a></td>
             <td>2.2GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Building">Building</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Building.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Building.tar.bz2" target="_blank">Download</a></td>
             <td>1.3GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Company">Company</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Company.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Company.tar.bz2" target="_blank">Download</a></td>
             <td>1.9GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:EducationalInstitution">EducationalInstitution</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/EducationalInstitution.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/EducationalInstitution.tar.bz2" target="_blank">Download</a></td>
             <td>1.9GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Event">Event</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Event.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Event.tar.bz2" target="_blank">Download</a></td>
             <td>900MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Film">Film</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Film.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Film.tar.bz2" target="_blank">Download</a></td>
             <td>2.8GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Group">Group</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Group.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Group.tar.bz2" target="_blank">Download</a></td>
             <td>1.2GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:HistoricPlace">HistoricPlace</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/HistoricPlace.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/HistoricPlace.tar.bz2" target="_blank">Download</a></td>
             <td>303MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Infrastructure">Infrastructure</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Infrastructure.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Infrastructure.tar.bz2" target="_blank">Download</a></td>
             <td>1.3GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:MeanOfTransportation">MeanOfTransportation</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/MeanOfTransportation.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/MeanOfTransportation.tar.bz2" target="_blank">Download</a></td>
             <td>792MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:OfficeHolder">OfficeHolder</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/OfficeHolder.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/OfficeHolder.tar.bz2" target="_blank">Download</a></td>
             <td>2.0GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Plant">Plant</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Plant.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Plant.tar.bz2" target="_blank">Download</a></td>
             <td>286MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Single">Single</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Single.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Single.tar.bz2" target="_blank">Download</a></td>
             <td>1.5GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:SoccerPlayer">SoccerPlayer</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/SoccerPlayer.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/SoccerPlayer.tar.bz2" target="_blank">Download</a></td>
             <td>721MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Software">Software</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Software.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Software.tar.bz2" target="_blank">Download</a></td>
             <td>1.3GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:TelevisionShow">TelevisionShow</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/TelevisionShow.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/TelevisionShow.tar.bz2" target="_blank">Download</a></td>
             <td>1.1GB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:Town">Town</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/Town.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/Town.tar.bz2" target="_blank">Download</a></td>
             <td>932MB</td>
         </tr>
         <tr>
             <td><a href="http://mappings.dbpedia.org/index.php/OntologyClass:WrittenWork">WrittenWork</a></td>
-            <td><a href="https://github.com/neulab/wikiasp/releases/download/v1.0/WrittenWork.tar.bz2">Download</a></td>
+            <td><a href="http://phontron.com/download/wikiasp/WrittenWork.tar.bz2" target="_blank">Download</a></td>
             <td>1.8GB</td>
         </tr>
     </tbody>
@@ -173,11 +173,13 @@ Inheriting from the base [corpus](https://github.com/tensorflow/tensor2tensor/tr
 ## Citation
 If you use the dataset, please consider citing with
 ```
-@article{hayashi2020wikiasp,
-  author    = {Hayashi, Hiroaki and Budania, Prashant and Wang, Peng  and Ackerson, Chris  and Neervannan, Raj and Neubig, Graham},
-  title     = {WikiAsp: A Dataset for Multi-domain Aspect-based Summarization},
-  journal   = {arXiv preprint arXiv:2011.07832},
-  year      = {2020},
+@article{hayashi20tacl,
+    title = {WikiAsp: A Dataset for Multi-domain Aspect-based Summarization},
+    author = {Hiroaki Hayashi and Prashant Budania and Peng Wang and Chris Ackerson and Raj Neervannan and Graham Neubig},
+    journal = {Transactions of the Association for Computational Linguistics (TACL)},
+    month = {},
+    url = {https://arxiv.org/abs/2011.07832},
+    year = {2020}
 }
 ```
 
