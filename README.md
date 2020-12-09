@@ -19,7 +19,7 @@ The following command will download all of them and extract archives:
 ```sh
 ./scripts/download_and_extract_all.sh /path/to/save_directory
 ```
-Alternatively, one can individually download an archive for each domain from the table below.
+Alternatively, one can individually download an archive for each domain from the table below. (Note: left-clicking will not prompt downloading dialogue. Open the link in a new tab, or save from the context menu on your OS, or use `wget`.)
 
 <table>
     <thead>

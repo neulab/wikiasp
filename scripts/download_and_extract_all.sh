@@ -12,7 +12,7 @@ fail() {
 
 main() {
   DEST=${1:-wikiasp}
-  PREFIX="https://github.com/rooa/summarization/releases/v1.0"
+  PREFIX="http://phontron.com/download/wikiasp"
 
   mkdir -p "$DEST"
   info "Saving to $DEST"
